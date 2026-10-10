@@ -1,0 +1,916 @@
+[
+  {
+    "question": "宁德时代2025年营业收入是多少？",
+    "answer": "2025年营业收入为423,701,834千元（即4,237.02亿元），较上年增长17.04%。",
+    "sources": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 11
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 108
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 11,
+        "score": 0.7485
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 20,
+        "score": 0.737
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 231,
+        "score": 0.7329
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 88,
+        "score": 0.7297
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 108,
+        "score": 0.7277
+      }
+    ],
+    "id": 1,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "宁德时代2025年归属于上市公司股东的净利润是多少？",
+    "answer": "归属于上市公司股东的净利润为72,201,282（原文该表格未标注单位）。",
+    "sources": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 11
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 11,
+        "score": 0.797
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 12,
+        "score": 0.7751
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 57,
+        "score": 0.7726
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 59,
+        "score": 0.759
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 193,
+        "score": 0.751
+      }
+    ],
+    "id": 2,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "宁德时代前五名客户合计销售金额占年度销售总额的比例是多少？",
+    "answer": "前五名客户合计销售金额占年度销售总额比例为38.96%",
+    "sources": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 28
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 28,
+        "score": 0.8213
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 28,
+        "score": 0.7506
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 88,
+        "score": 0.7326
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 28,
+        "score": 0.7207
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 20,
+        "score": 0.7205
+      }
+    ],
+    "id": 3,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "宁德时代2025年研发投入金额是多少？",
+    "answer": "2025年研发投入金额为22,146,581千元。",
+    "sources": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 30
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 30,
+        "score": 0.7679
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 88,
+        "score": 0.7393
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 29,
+        "score": 0.7353
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 90,
+        "score": 0.7177
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 128,
+        "score": 0.7105
+      }
+    ],
+    "id": 4,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "宁德时代2025年度财务报告的审计意见类型是什么？由哪家会计师事务所出具？",
+    "answer": "审计意见类型为标准的无保留意见，由致同会计师事务所（特殊普通合伙）出具。",
+    "sources": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 107
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 107,
+        "score": 0.7827
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 54,
+        "score": 0.7602
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 107,
+        "score": 0.7579
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 109,
+        "score": 0.7391
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 54,
+        "score": 0.7364
+      }
+    ],
+    "id": 5,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "宁德时代2025年审计报告中的关键审计事项有哪些？",
+    "answer": "年报未披露",
+    "sources": [],
+    "confidence": "low",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 107,
+        "score": 0.7473
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 54,
+        "score": 0.7449
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 109,
+        "score": 0.7188
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 66,
+        "score": 0.7149
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 107,
+        "score": 0.7148
+      }
+    ],
+    "id": 6,
+    "correct": false,
+    "cite_ok": false,
+    "hit": true
+  },
+  {
+    "question": "宁德时代报告期末在职员工的数量合计是多少？",
+    "answer": "185,839人",
+    "sources": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 56
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 56,
+        "score": 0.7504
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 108,
+        "score": 0.7003
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 188,
+        "score": 0.6958
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 34,
+        "score": 0.6938
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 173,
+        "score": 0.693
+      }
+    ],
+    "id": 7,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "比亚迪2025年营业收入是多少？",
+    "answer": "2025年与客户之间合同产生的收入及租赁收入合计为803,964,958千元（其中汽车、汽车相关产品及其他产品648,393,278千元，手机部件、组装及其他产品155,186,689千元，其他81,667千元，租赁收入303,324千元）。",
+    "sources": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 209
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 266,
+        "score": 0.7975
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 209,
+        "score": 0.7968
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 252,
+        "score": 0.7909
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 266,
+        "score": 0.7874
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 134,
+        "score": 0.774
+      }
+    ],
+    "id": 8,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "比亚迪2025年归属于上市公司股东的净利润同比变化了多少？",
+    "answer": "比亚迪2025年归属于上市公司股东的净利润约人民币32,619百万元，同比下降18.97%。",
+    "sources": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 54
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 208
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [
+      {
+        "tool": "calculate",
+        "args": {
+          "op": "growth",
+          "a": 32619,
+          "b": 40254
+        },
+        "result": "-18.97%"
+      }
+    ],
+    "retrieved": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 54,
+        "score": 0.8
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 11,
+        "score": 0.7919
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 12,
+        "score": 0.7882
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 11,
+        "score": 0.7879
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 208,
+        "score": 0.7871
+      }
+    ],
+    "id": 9,
+    "correct": true,
+    "cite_ok": false,
+    "hit": true
+  },
+  {
+    "question": "比亚迪前五名客户合计销售金额占年度销售总额的比例是多少？",
+    "answer": "前五名客户合计销售金额占年度销售总额比例为18.12%（前五名客户合计销售金额145,648,095,000.00元）。",
+    "sources": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 31
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 31,
+        "score": 0.8385
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 31,
+        "score": 0.7915
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 31,
+        "score": 0.7644
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 173,
+        "score": 0.7539
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 227,
+        "score": 0.7418
+      }
+    ],
+    "id": 10,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "比亚迪2025年度财务报表由哪家会计师事务所审计？签字注册会计师是谁？",
+    "answer": "比亚迪2025年度财务报表由安永华明会计师事务所（特殊普通合伙）审计；签字注册会计师为李剑光、胡蝶。",
+    "sources": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 117
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 122
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 117,
+        "score": 0.7906
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 122,
+        "score": 0.7771
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 84,
+        "score": 0.7751
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 117,
+        "score": 0.775
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 125,
+        "score": 0.7661
+      }
+    ],
+    "id": 11,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "比亚迪2025年审计报告中的关键审计事项有哪些？",
+    "answer": "关键审计事项包括：应收账款和长期应收款的预期信用损失；收入确认。",
+    "sources": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 119
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 118
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 117,
+        "score": 0.7531
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 119,
+        "score": 0.745
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 118,
+        "score": 0.743
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 121,
+        "score": 0.7391
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 117,
+        "score": 0.7365
+      }
+    ],
+    "id": 12,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "比亚迪2025年度利润分配预案中每10股派息多少元？",
+    "answer": "每10股派息3.58元（含税），即每股现金股利人民币0.358元（含税）。",
+    "sources": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 72
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 249
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [
+      {
+        "tool": "calculate",
+        "args": {
+          "op": "ratio",
+          "a": 3263956728,
+          "b": 9117197565
+        },
+        "result": "35.80%"
+      }
+    ],
+    "retrieved": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 59,
+        "score": 0.7813
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 108,
+        "score": 0.778
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 72,
+        "score": 0.769
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 71,
+        "score": 0.7687
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 249,
+        "score": 0.7633
+      }
+    ],
+    "id": 13,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "比亚迪2025年经营活动产生的现金流量净额同比变化了多少？",
+    "answer": "比亚迪2025年经营活动产生的现金流量净额为59,135,544,000.00元，2024年为133,453,873,000.00元，同比下降55.69%。",
+    "sources": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 40
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [
+      {
+        "tool": "calculate",
+        "args": {
+          "op": "growth",
+          "a": 59135544000,
+          "b": 133453873000
+        },
+        "result": "-55.69%"
+      }
+    ],
+    "retrieved": [
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 227,
+        "score": 0.7975
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 40,
+        "score": 0.7919
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 137,
+        "score": 0.7771
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 137,
+        "score": 0.7706
+      },
+      {
+        "doc": "比亚迪2025年报.pdf",
+        "page": 138,
+        "score": 0.7631
+      }
+    ],
+    "id": 14,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "工商银行2025年营业收入是多少？",
+    "answer": "原文未直接列示营业收入金额，但可由段落[1]推算：非利息收入2,031.44亿元，占营业收入的比重为24.2%，据此计算营业收入约为8,394.38亿元（2,031.44÷24.2%，为测算值，非原文直接披露）。",
+    "sources": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 30
+      }
+    ],
+    "confidence": "medium",
+    "tool_calls": [
+      {
+        "tool": "calculate",
+        "args": {
+          "op": "ratio",
+          "a": 2031.44,
+          "b": 0.242
+        },
+        "result": "839438.02%"
+      }
+    ],
+    "retrieved": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 30,
+        "score": 0.7739
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 324,
+        "score": 0.7715
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 322,
+        "score": 0.7702
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 271,
+        "score": 0.7579
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 277,
+        "score": 0.7577
+      }
+    ],
+    "id": 15,
+    "correct": false,
+    "cite_ok": false,
+    "hit": true
+  },
+  {
+    "question": "工商银行2025年末不良贷款率是多少？",
+    "answer": "2025年末不良贷款率为1.31%（较上年末下降0.03个百分点）。",
+    "sources": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 85
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 85,
+        "score": 0.8232
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 85,
+        "score": 0.8179
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 85,
+        "score": 0.7953
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 87,
+        "score": 0.7859
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 86,
+        "score": 0.7812
+      }
+    ],
+    "id": 16,
+    "correct": true,
+    "cite_ok": true,
+    "hit": true
+  },
+  {
+    "question": "工商银行2025年末资本充足率是多少？",
+    "answer": "年报未披露",
+    "sources": [],
+    "confidence": "low",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 384,
+        "score": 0.8004
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 101,
+        "score": 0.7629
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 384,
+        "score": 0.7556
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 384,
+        "score": 0.7476
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 303,
+        "score": 0.7454
+      }
+    ],
+    "id": 17,
+    "correct": false,
+    "cite_ok": false,
+    "hit": true
+  },
+  {
+    "question": "工商银行2025年归属于母公司股东的净利润同比增长了多少？",
+    "answer": "工商银行2025年归属于母公司股东的净利润为368,562百万元，上年为365,863百万元，同比增长0.74%。",
+    "sources": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 205
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 206
+      }
+    ],
+    "confidence": "high",
+    "tool_calls": [
+      {
+        "tool": "calculate",
+        "args": {
+          "op": "growth",
+          "a": 368562,
+          "b": 365863
+        },
+        "result": "0.74%"
+      }
+    ],
+    "retrieved": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 205,
+        "score": 0.7902
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 206,
+        "score": 0.7672
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 31,
+        "score": 0.7607
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 26,
+        "score": 0.7605
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 209,
+        "score": 0.7603
+      }
+    ],
+    "id": 18,
+    "correct": true,
+    "cite_ok": false,
+    "hit": false
+  },
+  {
+    "question": "工商银行2026年的营业收入目标是多少？",
+    "answer": "年报未披露",
+    "sources": [],
+    "confidence": "low",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 322,
+        "score": 0.7504
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 324,
+        "score": 0.7498
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 405,
+        "score": 0.7295
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 395,
+        "score": 0.723
+      },
+      {
+        "doc": "工商银行2025年报.pdf",
+        "page": 27,
+        "score": 0.7196
+      }
+    ],
+    "id": 19,
+    "correct": true,
+    "cite_ok": null,
+    "hit": null
+  },
+  {
+    "question": "宁德时代员工食堂2025年的人均餐费标准是多少？",
+    "answer": "年报未披露\n\n{\"answer\": \"年报未披露\", \"sources\": [], \"confidence\": \"low\"}",
+    "sources": [],
+    "confidence": "low",
+    "tool_calls": [],
+    "retrieved": [
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 196,
+        "score": 0.6717
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 196,
+        "score": 0.6603
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 183,
+        "score": 0.6517
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 56,
+        "score": 0.6501
+      },
+      {
+        "doc": "宁德时代2025年报.pdf",
+        "page": 116,
+        "score": 0.6472
+      }
+    ],
+    "id": 20,
+    "correct": true,
+    "cite_ok": null,
+    "hit": null
+  }
+]

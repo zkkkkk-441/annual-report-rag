@@ -1,0 +1,42 @@
+[
+  {
+    "setting": "chunk300_top3",
+    "chunk_size": 300,
+    "top_k": 3,
+    "hit_rate": 0.9444444444444444,
+    "accuracy": 0.85,
+    "cite_accuracy": 0.8666666666666667,
+    "refusal_ok": 2,
+    "refusal_total": 2
+  },
+  {
+    "setting": "chunk300_top5",
+    "chunk_size": 300,
+    "top_k": 5,
+    "hit_rate": 0.9444444444444444,
+    "accuracy": 0.85,
+    "cite_accuracy": 0.8666666666666667,
+    "refusal_ok": 2,
+    "refusal_total": 2
+  },
+  {
+    "setting": "chunk800_top3",
+    "chunk_size": 800,
+    "top_k": 3,
+    "hit_rate": 0.7222222222222222,
+    "accuracy": 0.6,
+    "cite_accuracy": 0.9,
+    "refusal_ok": 2,
+    "refusal_total": 2
+  },
+  {
+    "setting": "chunk800_top5",
+    "chunk_size": 800,
+    "top_k": 5,
+    "hit_rate": 0.8333333333333334,
+    "accuracy": 0.7,
+    "cite_accuracy": 1.0,
+    "refusal_ok": 2,
+    "refusal_total": 2
+  }
+]
