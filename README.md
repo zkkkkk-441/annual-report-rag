@@ -41,6 +41,7 @@ py -3.11 -m venv .venv
 .venv/Scripts/python -m src.parse_pdf          # 解析
 .venv/Scripts/python -m src.chunking           # 查看切块统计
 .venv/Scripts/python -m src.index build        # 建向量索引（首次会下载 bge 模型约 100MB）
+# 项目路径含中文时，索引存到 ~/.annual-report-rag/chroma（Chroma 不支持非 ASCII 路径）
 .venv/Scripts/python -m src.index search "宁德时代2025年营业收入"
 .venv/Scripts/python -m src.qa "比亚迪2025年经营活动现金流量净额同比变化多少？"
 

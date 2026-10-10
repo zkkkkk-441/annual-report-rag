@@ -69,8 +69,11 @@ def build(chunk_size: int) -> int:
 
 def get_index(chunk_size: int) -> VectorStoreIndex:
     if chunk_size not in _indexes:
-        _indexes[chunk_size] = VectorStoreIndex.from_vector_store(
-            _vector_store(chunk_size), embed_model=get_embed_model())
+        store = _vector_store(chunk_size)
+        if store._collection.count() == 0:  # 空库时检索结果为空，模型只会答"未披露"，必须显式报错
+            raise SystemExit(f"向量库 chunks_{chunk_size} 为空（位置：{CHROMA_DIR}），"
+                             f"请先运行：python -m src.index build")
+        _indexes[chunk_size] = VectorStoreIndex.from_vector_store(store, embed_model=get_embed_model())
     return _indexes[chunk_size]
 
 
