@@ -1,0 +1,26 @@
+[
+  {
+    "setting": "chunk300_top3",
+    "chunk_size": 300,
+    "top_k": 3,
+    "hit_rate": 0.9444444444444444
+  },
+  {
+    "setting": "chunk300_top5",
+    "chunk_size": 300,
+    "top_k": 5,
+    "hit_rate": 0.9444444444444444
+  },
+  {
+    "setting": "chunk800_top3",
+    "chunk_size": 800,
+    "top_k": 3,
+    "hit_rate": 0.7222222222222222
+  },
+  {
+    "setting": "chunk800_top5",
+    "chunk_size": 800,
+    "top_k": 5,
+    "hit_rate": 0.8333333333333334
+  }
+]
